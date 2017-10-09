@@ -1,0 +1,5 @@
+C:\Users\Ema\Documents\SoftUni\Programming_Fundamentals_09.2017\05.Methods. Debugging and troubleshooting code\05.Methods_Ex\08.Center_Point\bin\Debug\08.Center_Point.exe.config
+C:\Users\Ema\Documents\SoftUni\Programming_Fundamentals_09.2017\05.Methods. Debugging and troubleshooting code\05.Methods_Ex\08.Center_Point\bin\Debug\08.Center_Point.exe
+C:\Users\Ema\Documents\SoftUni\Programming_Fundamentals_09.2017\05.Methods. Debugging and troubleshooting code\05.Methods_Ex\08.Center_Point\bin\Debug\08.Center_Point.pdb
+C:\Users\Ema\Documents\SoftUni\Programming_Fundamentals_09.2017\05.Methods. Debugging and troubleshooting code\05.Methods_Ex\08.Center_Point\obj\Debug\08.Center_Point.exe
+C:\Users\Ema\Documents\SoftUni\Programming_Fundamentals_09.2017\05.Methods. Debugging and troubleshooting code\05.Methods_Ex\08.Center_Point\obj\Debug\08.Center_Point.pdb

@@ -1,0 +1,5 @@
+C:\Users\Ema\Documents\SoftUni\Programming_Fundamentals_09.2017\05.Methods. Debugging and troubleshooting code\05.Methods_Ex\09.Longer_Lines\bin\Debug\09.Longer_Lines.exe.config
+C:\Users\Ema\Documents\SoftUni\Programming_Fundamentals_09.2017\05.Methods. Debugging and troubleshooting code\05.Methods_Ex\09.Longer_Lines\bin\Debug\09.Longer_Lines.exe
+C:\Users\Ema\Documents\SoftUni\Programming_Fundamentals_09.2017\05.Methods. Debugging and troubleshooting code\05.Methods_Ex\09.Longer_Lines\bin\Debug\09.Longer_Lines.pdb
+C:\Users\Ema\Documents\SoftUni\Programming_Fundamentals_09.2017\05.Methods. Debugging and troubleshooting code\05.Methods_Ex\09.Longer_Lines\obj\Debug\09.Longer_Lines.exe
+C:\Users\Ema\Documents\SoftUni\Programming_Fundamentals_09.2017\05.Methods. Debugging and troubleshooting code\05.Methods_Ex\09.Longer_Lines\obj\Debug\09.Longer_Lines.pdb

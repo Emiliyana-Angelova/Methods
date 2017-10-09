@@ -1,0 +1,6 @@
+c:\users\ema\documents\visual studio 2017\Projects\05.Methods_Ex\01.Hello_Name\bin\Debug\01.Hello_Name.exe.config
+c:\users\ema\documents\visual studio 2017\Projects\05.Methods_Ex\01.Hello_Name\bin\Debug\01.Hello_Name.exe
+c:\users\ema\documents\visual studio 2017\Projects\05.Methods_Ex\01.Hello_Name\bin\Debug\01.Hello_Name.pdb
+c:\users\ema\documents\visual studio 2017\Projects\05.Methods_Ex\01.Hello_Name\obj\Debug\01.Hello_Name.csprojResolveAssemblyReference.cache
+c:\users\ema\documents\visual studio 2017\Projects\05.Methods_Ex\01.Hello_Name\obj\Debug\01.Hello_Name.exe
+c:\users\ema\documents\visual studio 2017\Projects\05.Methods_Ex\01.Hello_Name\obj\Debug\01.Hello_Name.pdb

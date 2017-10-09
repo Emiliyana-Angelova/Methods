@@ -1,0 +1,6 @@
+C:\Users\Ema\Documents\SoftUni\Programming_Fundamentals_09.2017\05.Methods. Debugging and troubleshooting code\05.Methods_Ex\11.Geometry_Calculator\bin\Debug\11.Geometry_Calculator.exe.config
+C:\Users\Ema\Documents\SoftUni\Programming_Fundamentals_09.2017\05.Methods. Debugging and troubleshooting code\05.Methods_Ex\11.Geometry_Calculator\bin\Debug\11.Geometry_Calculator.exe
+C:\Users\Ema\Documents\SoftUni\Programming_Fundamentals_09.2017\05.Methods. Debugging and troubleshooting code\05.Methods_Ex\11.Geometry_Calculator\bin\Debug\11.Geometry_Calculator.pdb
+C:\Users\Ema\Documents\SoftUni\Programming_Fundamentals_09.2017\05.Methods. Debugging and troubleshooting code\05.Methods_Ex\11.Geometry_Calculator\obj\Debug\11.Geometry_Calculator.csprojResolveAssemblyReference.cache
+C:\Users\Ema\Documents\SoftUni\Programming_Fundamentals_09.2017\05.Methods. Debugging and troubleshooting code\05.Methods_Ex\11.Geometry_Calculator\obj\Debug\11.Geometry_Calculator.exe
+C:\Users\Ema\Documents\SoftUni\Programming_Fundamentals_09.2017\05.Methods. Debugging and troubleshooting code\05.Methods_Ex\11.Geometry_Calculator\obj\Debug\11.Geometry_Calculator.pdb

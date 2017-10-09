@@ -1,0 +1,6 @@
+c:\users\ema\documents\visual studio 2017\Projects\05.Methods_Ex\06.Prime_Checker\bin\Debug\06.Prime_Checker.exe.config
+c:\users\ema\documents\visual studio 2017\Projects\05.Methods_Ex\06.Prime_Checker\bin\Debug\06.Prime_Checker.exe
+c:\users\ema\documents\visual studio 2017\Projects\05.Methods_Ex\06.Prime_Checker\bin\Debug\06.Prime_Checker.pdb
+c:\users\ema\documents\visual studio 2017\Projects\05.Methods_Ex\06.Prime_Checker\obj\Debug\06.Prime_Checker.csprojResolveAssemblyReference.cache
+c:\users\ema\documents\visual studio 2017\Projects\05.Methods_Ex\06.Prime_Checker\obj\Debug\06.Prime_Checker.exe
+c:\users\ema\documents\visual studio 2017\Projects\05.Methods_Ex\06.Prime_Checker\obj\Debug\06.Prime_Checker.pdb

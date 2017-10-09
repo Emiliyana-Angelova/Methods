@@ -1,0 +1,6 @@
+C:\Users\Ema\Documents\SoftUni\Programming_Fundamentals_09.2017\05.Methods. Debugging and troubleshooting code\05.Methods_Ex\12.Master_Numbers\bin\Debug\12.Master_Numbers.exe.config
+C:\Users\Ema\Documents\SoftUni\Programming_Fundamentals_09.2017\05.Methods. Debugging and troubleshooting code\05.Methods_Ex\12.Master_Numbers\bin\Debug\12.Master_Numbers.exe
+C:\Users\Ema\Documents\SoftUni\Programming_Fundamentals_09.2017\05.Methods. Debugging and troubleshooting code\05.Methods_Ex\12.Master_Numbers\bin\Debug\12.Master_Numbers.pdb
+C:\Users\Ema\Documents\SoftUni\Programming_Fundamentals_09.2017\05.Methods. Debugging and troubleshooting code\05.Methods_Ex\12.Master_Numbers\obj\Debug\12.Master_Numbers.csprojResolveAssemblyReference.cache
+C:\Users\Ema\Documents\SoftUni\Programming_Fundamentals_09.2017\05.Methods. Debugging and troubleshooting code\05.Methods_Ex\12.Master_Numbers\obj\Debug\12.Master_Numbers.exe
+C:\Users\Ema\Documents\SoftUni\Programming_Fundamentals_09.2017\05.Methods. Debugging and troubleshooting code\05.Methods_Ex\12.Master_Numbers\obj\Debug\12.Master_Numbers.pdb

@@ -1,0 +1,6 @@
+c:\users\ema\documents\visual studio 2017\Projects\05.Methods_Ex\02.Max_Method\bin\Debug\02.Max_Method.exe.config
+c:\users\ema\documents\visual studio 2017\Projects\05.Methods_Ex\02.Max_Method\bin\Debug\02.Max_Method.exe
+c:\users\ema\documents\visual studio 2017\Projects\05.Methods_Ex\02.Max_Method\bin\Debug\02.Max_Method.pdb
+c:\users\ema\documents\visual studio 2017\Projects\05.Methods_Ex\02.Max_Method\obj\Debug\02.Max_Method.csprojResolveAssemblyReference.cache
+c:\users\ema\documents\visual studio 2017\Projects\05.Methods_Ex\02.Max_Method\obj\Debug\02.Max_Method.exe
+c:\users\ema\documents\visual studio 2017\Projects\05.Methods_Ex\02.Max_Method\obj\Debug\02.Max_Method.pdb

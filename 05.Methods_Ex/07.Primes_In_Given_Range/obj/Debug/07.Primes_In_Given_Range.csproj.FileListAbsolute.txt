@@ -1,0 +1,6 @@
+C:\Users\Ema\Documents\SoftUni\Programming_Fundamentals_09.2017\05.Methods. Debugging and troubleshooting code\05.Methods_Ex\07.Primes_In_Given_Range\bin\Debug\07.Primes_In_Given_Range.exe.config
+C:\Users\Ema\Documents\SoftUni\Programming_Fundamentals_09.2017\05.Methods. Debugging and troubleshooting code\05.Methods_Ex\07.Primes_In_Given_Range\bin\Debug\07.Primes_In_Given_Range.exe
+C:\Users\Ema\Documents\SoftUni\Programming_Fundamentals_09.2017\05.Methods. Debugging and troubleshooting code\05.Methods_Ex\07.Primes_In_Given_Range\bin\Debug\07.Primes_In_Given_Range.pdb
+C:\Users\Ema\Documents\SoftUni\Programming_Fundamentals_09.2017\05.Methods. Debugging and troubleshooting code\05.Methods_Ex\07.Primes_In_Given_Range\obj\Debug\07.Primes_In_Given_Range.csprojResolveAssemblyReference.cache
+C:\Users\Ema\Documents\SoftUni\Programming_Fundamentals_09.2017\05.Methods. Debugging and troubleshooting code\05.Methods_Ex\07.Primes_In_Given_Range\obj\Debug\07.Primes_In_Given_Range.exe
+C:\Users\Ema\Documents\SoftUni\Programming_Fundamentals_09.2017\05.Methods. Debugging and troubleshooting code\05.Methods_Ex\07.Primes_In_Given_Range\obj\Debug\07.Primes_In_Given_Range.pdb

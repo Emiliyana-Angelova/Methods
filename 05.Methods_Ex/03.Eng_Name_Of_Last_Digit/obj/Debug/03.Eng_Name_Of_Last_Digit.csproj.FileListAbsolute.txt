@@ -1,0 +1,6 @@
+c:\users\ema\documents\visual studio 2017\Projects\05.Methods_Ex\03.Eng_Name_Of_Last_Digit\bin\Debug\03.Eng_Name_Of_Last_Digit.exe.config
+c:\users\ema\documents\visual studio 2017\Projects\05.Methods_Ex\03.Eng_Name_Of_Last_Digit\bin\Debug\03.Eng_Name_Of_Last_Digit.exe
+c:\users\ema\documents\visual studio 2017\Projects\05.Methods_Ex\03.Eng_Name_Of_Last_Digit\bin\Debug\03.Eng_Name_Of_Last_Digit.pdb
+c:\users\ema\documents\visual studio 2017\Projects\05.Methods_Ex\03.Eng_Name_Of_Last_Digit\obj\Debug\03.Eng_Name_Of_Last_Digit.exe
+c:\users\ema\documents\visual studio 2017\Projects\05.Methods_Ex\03.Eng_Name_Of_Last_Digit\obj\Debug\03.Eng_Name_Of_Last_Digit.pdb
+c:\users\ema\documents\visual studio 2017\Projects\05.Methods_Ex\03.Eng_Name_Of_Last_Digit\obj\Debug\03.Eng_Name_Of_Last_Digit.csprojResolveAssemblyReference.cache

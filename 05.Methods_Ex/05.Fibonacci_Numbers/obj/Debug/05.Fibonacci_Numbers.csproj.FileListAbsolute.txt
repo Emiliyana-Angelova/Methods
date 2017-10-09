@@ -1,0 +1,5 @@
+c:\users\ema\documents\visual studio 2017\Projects\05.Methods_Ex\05.Fibonacci_Numbers\bin\Debug\05.Fibonacci_Numbers.exe.config
+c:\users\ema\documents\visual studio 2017\Projects\05.Methods_Ex\05.Fibonacci_Numbers\bin\Debug\05.Fibonacci_Numbers.exe
+c:\users\ema\documents\visual studio 2017\Projects\05.Methods_Ex\05.Fibonacci_Numbers\bin\Debug\05.Fibonacci_Numbers.pdb
+c:\users\ema\documents\visual studio 2017\Projects\05.Methods_Ex\05.Fibonacci_Numbers\obj\Debug\05.Fibonacci_Numbers.exe
+c:\users\ema\documents\visual studio 2017\Projects\05.Methods_Ex\05.Fibonacci_Numbers\obj\Debug\05.Fibonacci_Numbers.pdb
